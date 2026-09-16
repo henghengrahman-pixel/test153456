@@ -1,0 +1,9 @@
+{
+  "ok": false,
+  "viewports": [],
+  "checks": {},
+  "consoleErrors": [],
+  "networkErrors": [],
+  "exceptions": [],
+  "error": "wait timeout: !!document.querySelector('.composer-shell') && document.querySelectorAll('.chat-row').length>=3; last=False"
+}
